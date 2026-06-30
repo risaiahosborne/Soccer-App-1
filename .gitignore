@@ -1,0 +1,4 @@
+.vscode/
+ss_env/
+__pycache__/
+*.pyc
